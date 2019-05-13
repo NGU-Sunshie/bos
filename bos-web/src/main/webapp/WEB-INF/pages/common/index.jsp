@@ -208,7 +208,7 @@
 		style="width:200px">
 		<div class="easyui-accordion" fit="true" border="false">
 			<div title="基本功能" data-options="iconCls:'icon-mini-add'" style="overflow:auto">
-				<ul id="treeMenu" class="ztree"></ul>a
+				<ul id="treeMenu" class="ztree"></ul>
 			</div>
 			<div title="系统管理" data-options="iconCls:'icon-mini-add'" style="overflow:auto">  
 				<ul id="adminMenu" class="ztree"></ul>
